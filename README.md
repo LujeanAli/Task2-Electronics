@@ -20,7 +20,7 @@
     ![image](knob.png)
    
    #### - Sweep Circuit
-      ![image](Sweep.png)
+    ![image](Sweep.png)
 
 
   ### Code:
