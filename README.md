@@ -113,9 +113,7 @@ void loop()
 
   ### Circuits:
 
-   
-   #### - Knob Circuit
-   ![image](DC Motor.png)
+   ![image](DC_Motor.png)
    
   ### Code:
   
