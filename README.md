@@ -96,3 +96,50 @@ void loop()
   
       
 
+
+## DC Motor
+
+ ### Definition:
+  Direct Current (DC) motor is a motor that turns energy from a direct current and
+  turns this into mechanical energy.
+
+ ### Hardware Required:
+  - Arduino UNO.
+  - Breadboard.
+  - DC Motor.
+  - L293D Motor Driver.
+  - hook-up wires.
+  - power source (9v battery).
+
+  ### Circuits:
+
+   
+   #### - Knob Circuit
+   ![image](DC Motor.png)
+   
+  ### Code:
+  
+ ```
+void setup()
+{
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+}
+void loop()
+{
+  digitalWrite(3, HIGH);
+  digitalWrite(4, LOW);
+  delay(5000); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(3, LOW);
+  digitalWrite(4, HIGH);
+  delay(5000); // Wait for 1000 millisecond(s)
+}
+
+ ```
+
+  ### Tinkercad link:
+
+https://www.tinkercad.com/things/8cnYCCaSKV7?sharecode=U_pqXf30B8vdipInCkbmTK5nZHgxCKH1wr-CSZMCwb4
+
+  
