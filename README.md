@@ -17,10 +17,10 @@
 
    
    #### - Knob Circuit
-    ![image1](knob.png)
+   ![image](knob.png)
    
    #### - Sweep Circuit
-    ![image2](Sweep.png)
+  ![image](Sweep.png)
 
 
 
