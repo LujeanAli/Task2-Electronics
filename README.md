@@ -15,7 +15,7 @@
 
   ### Circuits:
 
-   #### - Knob Circuit
+   
 
     ![image](knob.png)
    
