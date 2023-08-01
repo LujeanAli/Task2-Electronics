@@ -17,7 +17,7 @@
 
    #### - Knob Circuit
 
-    ![image](Knob.png)
+    ![image](knob.png)
    
    #### - Sweep Circuit
       ![image](Sweep.png)
